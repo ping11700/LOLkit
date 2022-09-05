@@ -4,8 +4,8 @@
 
 此工具不会联网, 防止账号密码被窃取.
 
-1. version1.0.0
+version1.0.0
 
-a. 绕开wegame, 一键登录.
+1. 绕开wegame, 一键登录.
 
-b. 瘦身lol, 删除lol中嵌入的wegame, cross(tx游戏, 直播等)
+2. 瘦身lol, 删除lol中嵌入的wegame, cross(tx游戏, 直播等)
