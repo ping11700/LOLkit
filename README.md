@@ -15,3 +15,6 @@ version1.0.0
 2. 瘦身lol, 删除lol中嵌入的wegame, cross(tx游戏, 直播等)
 
 
+version1.1.0
+
+1. 添加游戏的选区功能. 
