@@ -1,8 +1,7 @@
 # LOLKit 点击右侧的Releases 下载
 
 <img src="https://user-images.githubusercontent.com/63570520/189471527-e1c7f68b-a56b-4247-9bc1-729e878f4109.png" width="480px">
-
-2022-09-12 : 自测发现有点问题, 请暂时不要使用, 
+ 
 
 此工具不会破坏游戏的任何平衡性, 也希望大家一起营造好的游戏氛围.
 
