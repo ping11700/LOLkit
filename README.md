@@ -12,7 +12,7 @@
 
 version1.0.0
 1. 绕开wegame, 一键登录.
-2. 瘦身lol, 删除lol中嵌入的wegame, cross(tx游戏, 直播等)
+2. 瘦身lol, 删除lol中嵌入的wegame, cross(tx游戏直播等)
 
 version1.1.0
 1. 添加游戏的选区功能. 
