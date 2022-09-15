@@ -17,5 +17,5 @@ version1.0.0
 version1.1.0
 1. 添加游戏的选区功能. 
 
-version1.1.0
+version1.1.1
 1. 感谢B站小伙伴"小卖部管理员" 测出的Bug: 无法删除wegame.(已修复).
