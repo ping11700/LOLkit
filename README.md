@@ -20,4 +20,4 @@
 • version1.1.1
 1. 感谢B站小伙伴 "小卖部管理员" 提出的Bug: 无法删除wegame.(已修复)
  
- 演示: https://www.bilibili.com/medialist/play/205816813?from=space&business=space_series&business_id=2618012&desc=1
+ 视频演示: https://www.bilibili.com/medialist/play/205816813?from=space&business=space_series&business_id=2618012&desc=1
