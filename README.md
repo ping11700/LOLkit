@@ -1,4 +1,5 @@
 # LOLKit 点击右侧的Releases 下载
+此项目涉及到账号密码安全问题，故而不开源
 
 <img src="https://user-images.githubusercontent.com/63570520/192008804-cdeb0c49-a08c-468d-9af4-6346dd26aaa4.png" width="480px">
  
