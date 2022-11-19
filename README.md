@@ -38,4 +38,4 @@
 4. 系统浏览器打开项目GitHub更新网址
 
 
- 视频演示:https://www.bilibili.com/video/BV128411Y7Me/?vd_source=a5c5520237334460498c3a24b8a3a289
+ 视频演示:https://www.bilibili.com/video/BV128411Y7Me
