@@ -1,1 +1,2 @@
- linguist-language=c#
+*.cs linguist-language=C#
+*.ico linguist-language=C#
