@@ -1,7 +1,7 @@
 # LOLKit 点击右侧的Releases 下载
 此项目涉及到账号密码安全问题，故而不开源
 
-[<img src="https://user-images.githubusercontent.com/63570520/6349def1-86fc-4afa-b2a6-f83eb09df474" width="480px">](GUI.png)
+![image](GUI.png)
 
 * 主要功能: 一键登录LOL.
  
