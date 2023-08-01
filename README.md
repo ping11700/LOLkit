@@ -2,6 +2,7 @@
 此项目涉及到账号密码安全问题，故而不开源
 
 <img src="https://user-images.githubusercontent.com/63570520/204091426-9a92ae0e-a5be-44a6-9a3b-26f9cfb5877e.PNG" width="480px">
+![1111](https://github.com/ping11700/LOLKit/assets/63570520/6349def1-86fc-4afa-b2a6-f83eb09df474)
 
 * 主要功能: 一键登录LOL.
  
