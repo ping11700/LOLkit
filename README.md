@@ -36,5 +36,5 @@
 3. 感谢B站小伙伴"ze7ZED"提出的优化建议. 添加多个账号管理"(已优化);
 4. 系统浏览器打开项目GitHub更新网址
 
-
- 视频演示:https://www.bilibili.com/video/BV1Wd4y1x77k
+视频演示:
+【合集·one gift for all lol gamers-哔哩哔哩】 https://b23.tv/RsmgaSi
