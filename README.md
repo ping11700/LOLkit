@@ -36,5 +36,13 @@
 3. 感谢B站小伙伴"ze7ZED"提出的优化建议. 添加多个账号管理"(已优化);
 4. 系统浏览器打开项目GitHub更新网址
 
+• version1.4.0
+1.深度清理LOL内部无用tx插件
+2.新增手动输入密码功能, 此功能开启本机不在记录用户密码
+
+• version1.5.0
+1.新增LOL下载安装功能
+2.新增TraceWindow
+
 视频演示:
 【合集·one gift for all lol gamers-哔哩哔哩】 https://b23.tv/RsmgaSi
