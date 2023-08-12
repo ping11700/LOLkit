@@ -55,8 +55,9 @@
    
 • version1.6.0
 1. 优化traceWindow
-2. 添加自动修复功能
+2. 添加自动修复功能(a. 卡qq安全中心,  b. 无法自动键入)
 3. 优化下载逻辑
-
+4. 优化登陆成功后CPU占用7% ->0%
+   
 视频演示:
 【合集·one gift for all lol gamers-哔哩哔哩】 https://b23.tv/RsmgaSi
