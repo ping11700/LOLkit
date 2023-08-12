@@ -52,5 +52,11 @@
 1. 新增LOL下载安装功能;
 2. 新增TraceWindow;
 
+   
+• version1.6.0
+1. 优化traceWindow
+2. 添加自动修复功能
+3. 优化下载逻辑
+
 视频演示:
 【合集·one gift for all lol gamers-哔哩哔哩】 https://b23.tv/RsmgaSi
