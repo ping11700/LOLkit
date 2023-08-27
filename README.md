@@ -7,5 +7,5 @@
 *	账户密码加密;
 *	扫码登陆(v1.7.0);
 
-*	Manual: [https://sway.office.com/w5xo2ug6qe7pKbVx?play](https://github.com/ping11700/LOLKit/blob/main/Manual)
+*	Manual: https://sway.office.com/w5xo2ug6qe7pKbVx?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
