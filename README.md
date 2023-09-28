@@ -7,5 +7,5 @@
 *	账户密码加密;
 *	扫码登陆(v1.7.0);
 
-*	Manual: https://sway.office.com/PXfDJFguLtibyWsu?play
+*	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
