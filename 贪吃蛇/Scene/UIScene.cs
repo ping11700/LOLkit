@@ -7,7 +7,8 @@ namespace 贪吃蛇
         protected string title;
         protected string optionName1;
         protected string optionName2;
-
+        protected string optionName3;
+        
         private int _curOption;
 
         protected virtual void Init()
@@ -42,7 +43,7 @@ namespace 贪吃蛇
             Console.Clear();
 
             // 标题
-            Console.SetCursorPosition(Game.Window_Width / 2 - title.Length, Game.Window_Height / 3);
+            Console.SetCursorPosition(Game.Window_Width / 2 - title.Length + 20, Game.Window_Height / 3);
             Console.ForegroundColor = ConsoleColor.White;
             Console.Write(title);
 
@@ -55,6 +56,11 @@ namespace 贪吃蛇
             Console.SetCursorPosition(Game.Window_Width / 2 - optionName2.Length, Game.Window_Height / 2 + 2);
             Console.ForegroundColor = _curOption == 1 ? ConsoleColor.Red : ConsoleColor.White;
             Console.Write(optionName2);
+
+            // 选项三
+            Console.SetCursorPosition(Game.Window_Width / 2 - optionName3.Length, Game.Window_Height / 2 + 4);
+            Console.ForegroundColor = _curOption == 1 ? ConsoleColor.Red : ConsoleColor.White;
+            Console.Write(optionName3);
         }
 
         private void DoOption()
