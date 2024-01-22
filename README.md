@@ -5,6 +5,6 @@
 自开发起, 账户的安全问题让作者焦头烂额
 *	账户密码加密;
 *	扫码登陆;
-
+![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui.png)
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
