@@ -9,7 +9,7 @@
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
 
-# version1.0.0
+$	version1.0.0
 
 * 绕开wegame, 一键登录;
 * 瘦身lol, 删除lol中嵌入的wegame, cross(tx游戏直播等);
