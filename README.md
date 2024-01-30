@@ -6,8 +6,9 @@
 *	账户密码加密;
 *	扫码登陆;
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui.png)
-![alt text](https://github.com/ping11700/LOLKit/blob/main/records.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/summoner.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/records.png)
+
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
 
