@@ -12,7 +12,7 @@
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
   
-# version2.1.0
+# version2.1.1
 * 修复自动配置符文bug; 
 * 修复大乱斗循环选择英雄bug;
 * 优化自动重连和强制退出对局冲突逻辑;
