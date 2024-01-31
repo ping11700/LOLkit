@@ -11,8 +11,14 @@
 
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
-
-
+  
+# version2.1.0
+* 修复自动配置符文bug; 
+* 修复大乱斗循环选择英雄bug;
+* 优化自动重连和强制退出对局冲突逻辑;
+* 新增safe模式, 可用于网吧, 此模式禁止使用自动登录(保护账户安全);
+* 新增清理客户端主页广告页功能;
+ 
 # version2.1.0
 * 皮肤预览; 
 * 修复窗体异化;
