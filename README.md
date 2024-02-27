@@ -10,7 +10,7 @@
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/records.png)
 
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
-*	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://b23.tv/MFjZy2T
+*	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
   
 # version2.1.1
 * 修复自动配置符文bug; 
