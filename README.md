@@ -11,7 +11,14 @@
 
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
-  
+
+# version2.2.0
+* 优化自动化逻辑; 
+* 新增功能删除log等无用文件;
+* 新增功能召唤师搜索(可查隐藏战绩)等;
+* 展示段位, 最近对局信息;
+* UI优化;
+
 # version2.1.1
 * 修复自动配置符文bug; 
 * 修复大乱斗循环选择英雄bug;
