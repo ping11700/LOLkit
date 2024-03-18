@@ -5,6 +5,8 @@
 自开发起, 账户的安全问题让作者焦头烂额
 *	账户密码加密;
 *	扫码登陆;
+
+
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui2024-1-31.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/record.png)
