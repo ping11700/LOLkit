@@ -8,7 +8,7 @@
 
 #
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui2024-1-31.png)
-![alt text](https://github.com/ping11700/LOLKit/blob/main/download.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/record.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/ARAM.png)
