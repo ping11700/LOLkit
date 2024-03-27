@@ -13,6 +13,8 @@
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/record.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/ARAM.png)
 
+🐧:875492749
+
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 
