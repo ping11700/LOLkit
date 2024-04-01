@@ -1,4 +1,4 @@
-# LOLKit 点击右侧的Releases 下载
+# ![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui2024-1-31.png)
  
 此项目涉及账号密码安全问题，故而没有开源. 不开源的原因, 开源后账户安全的不可控性;
 
@@ -6,8 +6,7 @@
 *	账户密码加密;
 *	扫码登陆;
 
-#
-# ![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui2024-1-31.png)
+
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/record.png)
