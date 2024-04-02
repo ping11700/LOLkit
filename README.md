@@ -22,8 +22,8 @@
 *	召唤师查询
 *	设置展示段位,在线状态;
 
-额外功能: SMS接码
-🐧:875492749
+*额外功能: SMS接码
+*🐧:875492749
 
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui2024-1-31.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
