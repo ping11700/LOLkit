@@ -29,6 +29,7 @@
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/record.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/func.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/ARAM.png)
 
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
