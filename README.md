@@ -37,6 +37,7 @@
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/func.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/ARAM.png)
 
+# Release Note
 # version2.3.0
 * 根据游戏模式, 展示队友信息; 
 * 新增功能设置召唤师段位,在线状态,个性签名;
