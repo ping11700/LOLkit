@@ -1,19 +1,49 @@
 # 此项目涉及账号密码安全问题，故而没有开源. 不开源的原因:开源后账户安全的不可控性;
 
-自开发起, 账户的安全问题让作者焦头烂额
-*	账户密码加密;
-*	扫码登陆;
-
+# 核心功能:
+*	一键登录, 自动输入账号密码, 选择大区;
+*	高速下载纯净lol, 100+M/s跑满带宽;
+*	精简客户端删除无用文件, 缓存等, 删除内置wegame, 电视台, qt, 无用加速器等;
+*	自动修复;(绕开wegame, 强制wegame弹窗, 安全中心图形码校验卡死, 无法自动键入等)
+*	屏蔽主页广告, 提高客户端流畅性;
+*	安全模式, 适用于网吧;
+*	LOLKit和lolClient相互独立, 互不影响;
+#
+*	自动ban位;
+*	自动秒选;
+*	大乱斗秒选;
+*	自动配置胜率最高的符文,装备;
+*	自动接受对局;
+*	自动重连游戏;
+*	自动跳过结算;
+*	根据游戏模式, 展示队友信息;(段位, 最近对局胜率等)
+*	重置窗体;(修复DirectX导致客户端界面异化)
+*	皮肤预览;(设置为桌面, 软件背景, 生涯背景)
+*	强制退出对局;
+*	战绩查询;(包含隐藏战绩)
+*	召唤师查询;
+*	设置展示段位, 在线状态, 个性签名;
+#
+* 额外功能: SMS接码
+* 🐧:875492749
+#
+*	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
+*	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
+#
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Gui2024-1-31.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/record.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/func.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/ARAM.png)
 
-🐧:875492749
-
-*	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
-*	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
+# Release Note
+ version2.3.0
+ * 根据游戏模式, 展示队友信息; 
+ * 新增功能设置召唤师段位,在线状态,个性签名;
+ * 新增功能手动跳过结算页面;
+ * UI优化;
+ * 备注: 此版本之前, 服务器被墙, 无法自动更新, 需要手动下载.
 
 # version2.2.0
 * 优化自动化逻辑; 
