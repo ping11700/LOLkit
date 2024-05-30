@@ -2,10 +2,14 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
+
+> [!NOTE]
+> issue中是否已经包含(包括closed issue).
+
 
 **Describe the bug**
 A clear and concise description of what the bug is.
