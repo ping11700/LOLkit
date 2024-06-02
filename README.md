@@ -28,10 +28,10 @@
 *	热重启窗体; 
 *	重绘窗体;(修复DirectX导致客户端界面异化)
 *	皮肤预览;(设置为桌面, 软件背景, 生涯背景)
-*	自动化输入文本; 
+*	自动化输入文本(目前移除); 
 #
 * 额外功能: SMS接码
-* 🐧:875492749
+* 🐧:875492749 \ 922015662
 #
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
