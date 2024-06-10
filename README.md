@@ -40,7 +40,7 @@
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/records.png)
-![alt text](https://github.com/ping11700/LOLKit/blob/main/func.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/funcs.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/aram.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Teams.png)
 
