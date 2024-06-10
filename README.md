@@ -42,6 +42,7 @@
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/record.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/func.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/aram.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/teams.png)
 
 # Release Note
 ## version2.3.0
