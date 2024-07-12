@@ -11,11 +11,13 @@
 
 
 #
+*	英雄强度全球排行(经典模式, 大乱斗, 斗魂);
 *	自动预选;
 *	自动ban位;
 *	自动秒选;
 *	大乱斗无CD选择, 自动秒选;
 *	自动配置胜率最高的符文,装备;(数据源101, opgg)
+*	对局英雄分析(对抗位, 合作位);
 *	自动搜索对局;
 *	自动接受对局;
 *	自动重连游戏;
@@ -24,7 +26,7 @@
 *	强制退出对局;
 *	根据游戏模式, 展示队友信息;(车队, 段位, 最近对局胜率等)
 *	根据游戏模式, 开局前展示双方信息;(车队, 段位, 最近对局胜率等)
-*	开黑车队推测
+*	开黑车队推测;
 *	战绩查询;(包含隐藏战绩)
 *	召唤师查询;
 *	设置展示段位, 在线状态, 个性签名;
@@ -40,11 +42,12 @@
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 #
-![alt text](https://github.com/ping11700/LOLKit/blob/main/home.png)
-![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/login.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/records.png)
-![alt text](https://github.com/ping11700/LOLKit/blob/main/funcs.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/rank.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/func.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/aram.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Teams.png)
 
