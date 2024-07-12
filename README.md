@@ -42,11 +42,11 @@
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 #
-![alt text](https://github.com/ping11700/LOLKit/blob/main/home.png)
-![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/login.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Summoner.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/records.png)
-![alt text](https://github.com/ping11700/LOLKit/blob/main/funcs.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/rank.png)
+![alt text](https://github.com/ping11700/LOLKit/blob/main/Download.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/aram.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Teams.png)
 
