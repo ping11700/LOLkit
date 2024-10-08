@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Network\TimeoutWebClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Controls\Control\ColorPicker.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Components\Usercontrol_Vsms.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Components\Usercontrol_IconTips.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialogers\Dialog_Vsms.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialogers\Dialog_Words.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\LOL\Usercontrol_Funcs.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

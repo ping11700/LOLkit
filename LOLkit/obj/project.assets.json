@@ -1,0 +1,480 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "Accord/3.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Accord.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Accord.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/_._": {}
+        }
+      },
+      "Accord.Imaging/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Math": "3.8.0",
+          "Accord.Statistics": "3.8.0"
+        },
+        "compile": {
+          "lib/net45/Accord.Imaging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Accord.Imaging.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Accord.Math/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0"
+        },
+        "compile": {
+          "lib/net45/Accord.Math.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/Accord.Math.dll": {
+            "related": ".Core.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Accord.Math.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/net45/Accord.Math.dll": {
+            "related": ".Core.xml;.xml"
+          }
+        }
+      },
+      "Accord.Statistics/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Math": "3.8.0"
+        },
+        "compile": {
+          "lib/net45/Accord.Statistics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Accord.Statistics.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AlipaySDKNet/4.9.171": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle.NetFramework": "1.8.5.2",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Web",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net35/AlipaySDKNet.dll": {}
+        },
+        "runtime": {
+          "lib/net35/AlipaySDKNet.dll": {}
+        }
+      },
+      "BouncyCastle.NetFramework/1.8.5.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.Data",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net20/BouncyCastle.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net20/BouncyCastle.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InputSimulator/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net20/WindowsInput.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net20/WindowsInput.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "QRCoder/1.5.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net40/QRCoder.dll": {}
+        },
+        "runtime": {
+          "lib/net40/QRCoder.dll": {}
+        }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5",
+        "dependencies": {
+          "Accord.Imaging": "3.8.0",
+          "AlipaySDKNet": "4.9.171",
+          "InputSimulator": "1.0.4",
+          "Newtonsoft.Json": "13.0.3",
+          "QRCoder": "1.5.1"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accord/3.8.0": {
+      "sha512": "7kJrB570dO5ELim+2KWQNozuvWO9/BuZfZspdFy36fcWPNF2CEccblLuILeUlI8QJYd2DlBy0bfK8BlCx/uayA==",
+      "type": "package",
+      "path": "accord/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.3.8.0.nupkg.sha512",
+        "accord.nuspec",
+        "build/Accord.dll.config",
+        "build/Accord.targets",
+        "lib/net35-unity full v3.5/Accord.dll",
+        "lib/net35-unity full v3.5/Accord.xml",
+        "lib/net35-unity micro v3.5/Accord.dll",
+        "lib/net35-unity micro v3.5/Accord.xml",
+        "lib/net35-unity subset v3.5/Accord.dll",
+        "lib/net35-unity subset v3.5/Accord.xml",
+        "lib/net35-unity web v3.5/Accord.dll",
+        "lib/net35-unity web v3.5/Accord.xml",
+        "lib/net35/Accord.dll",
+        "lib/net35/Accord.xml",
+        "lib/net40/Accord.dll",
+        "lib/net40/Accord.xml",
+        "lib/net45/Accord.dll",
+        "lib/net45/Accord.xml",
+        "lib/net46/Accord.dll",
+        "lib/net46/Accord.xml",
+        "lib/net462/Accord.dll",
+        "lib/net462/Accord.xml",
+        "lib/netstandard1.4/Accord.dll",
+        "lib/netstandard1.4/Accord.xml",
+        "lib/netstandard2.0/Accord.dll",
+        "lib/netstandard2.0/Accord.xml"
+      ]
+    },
+    "Accord.Imaging/3.8.0": {
+      "sha512": "PBZelpKoIW+h3uyNcTufFTCKxEtl/i8nNjgWctvvNu9EkEWDnZ0linckaDWr0rwO0Sx1DD8tL+hpxgOR1clgmg==",
+      "type": "package",
+      "path": "accord.imaging/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.imaging.3.8.0.nupkg.sha512",
+        "accord.imaging.nuspec",
+        "lib/net35-unity full v3.5/Accord.Imaging.dll",
+        "lib/net35-unity full v3.5/Accord.Imaging.xml",
+        "lib/net35-unity micro v3.5/Accord.Imaging.dll",
+        "lib/net35-unity micro v3.5/Accord.Imaging.xml",
+        "lib/net35-unity subset v3.5/Accord.Imaging.dll",
+        "lib/net35-unity subset v3.5/Accord.Imaging.xml",
+        "lib/net35-unity web v3.5/Accord.Imaging.dll",
+        "lib/net35-unity web v3.5/Accord.Imaging.xml",
+        "lib/net35/Accord.Imaging.dll",
+        "lib/net35/Accord.Imaging.xml",
+        "lib/net40/Accord.Imaging.dll",
+        "lib/net40/Accord.Imaging.xml",
+        "lib/net45/Accord.Imaging.dll",
+        "lib/net45/Accord.Imaging.xml",
+        "lib/net46/Accord.Imaging.dll",
+        "lib/net46/Accord.Imaging.xml",
+        "lib/net462/Accord.Imaging.dll",
+        "lib/net462/Accord.Imaging.xml",
+        "lib/netstandard2.0/Accord.Imaging.dll",
+        "lib/netstandard2.0/Accord.Imaging.xml"
+      ]
+    },
+    "Accord.Math/3.8.0": {
+      "sha512": "K3dzeQjDIrwRnoTRoMOoIbul2Uc0B8cnEtdrSlirmIo37C+jVkmYpJzme/z4Kg99XR2Vj5W5TTNlhjn+AKR+8A==",
+      "type": "package",
+      "path": "accord.math/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.math.3.8.0.nupkg.sha512",
+        "accord.math.nuspec",
+        "lib/net35-unity full v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity full v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity full v3.5/Accord.Math.dll",
+        "lib/net35-unity full v3.5/Accord.Math.xml",
+        "lib/net35-unity micro v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity micro v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity micro v3.5/Accord.Math.dll",
+        "lib/net35-unity micro v3.5/Accord.Math.xml",
+        "lib/net35-unity subset v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity subset v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity subset v3.5/Accord.Math.dll",
+        "lib/net35-unity subset v3.5/Accord.Math.xml",
+        "lib/net35-unity web v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity web v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity web v3.5/Accord.Math.dll",
+        "lib/net35-unity web v3.5/Accord.Math.xml",
+        "lib/net35/Accord.Math.Core.dll",
+        "lib/net35/Accord.Math.Core.xml",
+        "lib/net35/Accord.Math.dll",
+        "lib/net35/Accord.Math.xml",
+        "lib/net40/Accord.Math.Core.dll",
+        "lib/net40/Accord.Math.Core.xml",
+        "lib/net40/Accord.Math.dll",
+        "lib/net40/Accord.Math.xml",
+        "lib/net45/Accord.Math.Core.dll",
+        "lib/net45/Accord.Math.Core.xml",
+        "lib/net45/Accord.Math.dll",
+        "lib/net45/Accord.Math.xml",
+        "lib/net46/Accord.Math.Core.dll",
+        "lib/net46/Accord.Math.Core.xml",
+        "lib/net46/Accord.Math.dll",
+        "lib/net46/Accord.Math.xml",
+        "lib/net462/Accord.Math.Core.dll",
+        "lib/net462/Accord.Math.Core.xml",
+        "lib/net462/Accord.Math.dll",
+        "lib/net462/Accord.Math.xml",
+        "lib/netstandard1.4/Accord.Math.Core.dll",
+        "lib/netstandard1.4/Accord.Math.Core.xml",
+        "lib/netstandard1.4/Accord.Math.dll",
+        "lib/netstandard1.4/Accord.Math.xml",
+        "lib/netstandard2.0/Accord.Math.Core.dll",
+        "lib/netstandard2.0/Accord.Math.Core.xml",
+        "lib/netstandard2.0/Accord.Math.dll",
+        "lib/netstandard2.0/Accord.Math.xml"
+      ]
+    },
+    "Accord.Statistics/3.8.0": {
+      "sha512": "8WsmCE31Qdy3FmRvwtAY3F9/fJEi/6uyLQrhOvSI6pP6gpoaacmCrJRIphkGf2EB8gKHRWLAc4UXr1OOPHxkmQ==",
+      "type": "package",
+      "path": "accord.statistics/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.statistics.3.8.0.nupkg.sha512",
+        "accord.statistics.nuspec",
+        "lib/net35-unity full v3.5/Accord.Statistics.dll",
+        "lib/net35-unity full v3.5/Accord.Statistics.xml",
+        "lib/net35-unity micro v3.5/Accord.Statistics.dll",
+        "lib/net35-unity micro v3.5/Accord.Statistics.xml",
+        "lib/net35-unity subset v3.5/Accord.Statistics.dll",
+        "lib/net35-unity subset v3.5/Accord.Statistics.xml",
+        "lib/net35-unity web v3.5/Accord.Statistics.dll",
+        "lib/net35-unity web v3.5/Accord.Statistics.xml",
+        "lib/net35/Accord.Statistics.dll",
+        "lib/net35/Accord.Statistics.xml",
+        "lib/net40/Accord.Statistics.dll",
+        "lib/net40/Accord.Statistics.xml",
+        "lib/net45/Accord.Statistics.dll",
+        "lib/net45/Accord.Statistics.xml",
+        "lib/net46/Accord.Statistics.dll",
+        "lib/net46/Accord.Statistics.xml",
+        "lib/net462/Accord.Statistics.dll",
+        "lib/net462/Accord.Statistics.xml",
+        "lib/netstandard1.4/Accord.Statistics.dll",
+        "lib/netstandard1.4/Accord.Statistics.xml",
+        "lib/netstandard2.0/Accord.Statistics.dll",
+        "lib/netstandard2.0/Accord.Statistics.xml"
+      ]
+    },
+    "AlipaySDKNet/4.9.171": {
+      "sha512": "jkQWRf6D+LehZdYYJW29aCNYOaQ+ONPHi+QJAlrKzEkitYVO2VJcu+kYykoOCHweBjPgJyY6w1biB6Sc2DtHsw==",
+      "type": "package",
+      "path": "alipaysdknet/4.9.171",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "alipaysdknet.4.9.171.nupkg.sha512",
+        "alipaysdknet.nuspec",
+        "lib/net35/AlipaySDKNet.dll"
+      ]
+    },
+    "BouncyCastle.NetFramework/1.8.5.2": {
+      "sha512": "atzbODnxjNeETuq7owKCY20qV0gjVhM7Jy/r22dJEObaHop8Yd4/JcuFIELV8l6CrUkalpDUaJ/cKsZRb/Pb1w==",
+      "type": "package",
+      "path": "bouncycastle.netframework/1.8.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bouncycastle.netframework.1.8.5.2.nupkg.sha512",
+        "bouncycastle.netframework.nuspec",
+        "lib/net20/BouncyCastle.dll",
+        "lib/net20/BouncyCastle.xml"
+      ]
+    },
+    "InputSimulator/1.0.4": {
+      "sha512": "D0LvRCPQMX6/FJHBjng+RO+wRDuHTJrfo7IAc7rmkPvRqchdVGJWg3y70peOtDy3OLNK+HSOwVkH4GiuLnkKgA==",
+      "type": "package",
+      "path": "inputsimulator/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "inputsimulator.1.0.4.nupkg.sha512",
+        "inputsimulator.nuspec",
+        "lib/net20/WindowsInput.dll",
+        "lib/net20/WindowsInput.xml"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "QRCoder/1.5.1": {
+      "sha512": "+v8VntytuDw4R1nCNJkSA7SWSizJoQfiByV1+nUjOwrDZEuaxefG73aKuuQjpaGtoZ7qlXpRbK70C23m1h3WLw==",
+      "type": "package",
+      "path": "qrcoder/1.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/QRCoder.dll",
+        "lib/net40/QRCoder.dll",
+        "lib/net5.0-windows7.0/QRCoder.dll",
+        "lib/net5.0/QRCoder.dll",
+        "lib/net6.0-windows7.0/QRCoder.dll",
+        "lib/net6.0/QRCoder.dll",
+        "lib/netstandard1.3/QRCoder.dll",
+        "lib/netstandard2.0/QRCoder.dll",
+        "nuget-icon.png",
+        "nuget-readme.md",
+        "qrcoder.1.5.1.nupkg.sha512",
+        "qrcoder.nuspec"
+      ]
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Interceptor/Core.csproj",
+      "msbuildProject": "../Interceptor/Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "E:\\_VS2022\\Nuget": {}
+  },
+  "project": {
+    "version": "2.9.9.2",
+    "restore": {
+      "projectUniqueName": "E:\\_VSGitHub\\LOLkit_private\\LOLkit\\LOLkit.csproj",
+      "projectName": "LOLkit",
+      "projectPath": "E:\\_VSGitHub\\LOLkit_private\\LOLkit\\LOLkit.csproj",
+      "packagesPath": "E:\\_VS2022\\Nuget",
+      "outputPath": "E:\\_VSGitHub\\LOLkit_private\\LOLkit\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "E:\\_VS2022\\Nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "projectReferences": {
+            "E:\\_VSGitHub\\LOLkit_private\\Interceptor\\Core.csproj": {
+              "projectPath": "E:\\_VSGitHub\\LOLkit_private\\Interceptor\\Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "targetAlias": "net45",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

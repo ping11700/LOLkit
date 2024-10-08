@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sEXk1hCMR4g=",
+  "success": true,
+  "projectFilePath": "E:\\_VSGitHub\\LOLkit_private\\Interceptor\\Core.csproj",
+  "expectedPackageFiles": [
+    "E:\\_VS2022\\Nuget\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\accord.imaging\\3.8.0\\accord.imaging.3.8.0.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\alipaysdknet\\4.9.171\\alipaysdknet.4.9.171.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\bouncycastle.netframework\\1.8.5.2\\bouncycastle.netframework.1.8.5.2.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "E:\\_VS2022\\Nuget\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
