@@ -13,6 +13,8 @@
 
 #
 * 🐧: 485886830
+* 介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
+* 视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 #
 *	英雄强度全球排行(经典模式, 大乱斗, 斗魂);
 *	自动预选;
@@ -43,12 +45,9 @@
 *	皮肤预览;(设置为桌面, 软件背景, 生涯背景)
 *	自动化输入文本, 根据模式发送队友对局文本信息; 
 *	自动化输入文本, 游戏内自动发送文本; 
-#
+
 * 额外功能: SMS接码
 
-#
-*	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
-*	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 #
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/login.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Summoner.png)
