@@ -1,7 +1,9 @@
 # 此项目涉及账号密码安全问题，故而没有开源. 不开源的原因:开源后账户安全的不可控性;
 
 框架: .NetFramework4.5,  支持windows All
-
+* 🐧: 485886830
+* 介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
+* 视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 # 核心功能:
 *	一键登录, 自动输入账号密码, 选择大区;
 *	高速下载纯净lol, 100+M/s跑满带宽;
@@ -10,11 +12,6 @@
 *	自动修复;(绕开wegame, 强制wegame弹窗, 安全中心图形码校验卡死, 无法自动键入等)
 *	屏蔽主页广告, 提高客户端流畅性;
 *	LOLKit和lolClient相互独立, 互不影响;
-
-#
-* 🐧: 485886830
-* 介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
-* 视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 #
 *	英雄强度全球排行(经典模式, 大乱斗, 斗魂);
 *	自动预选;
