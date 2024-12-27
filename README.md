@@ -11,7 +11,7 @@
 *	屏蔽主页广告, 提高客户端流畅性;
 *	LOLKit和lolClient相互独立, 互不影响;
 
-
+* 🐧: 485886830 
 #
 *	英雄强度全球排行(经典模式, 大乱斗, 斗魂);
 *	自动预选;
@@ -44,7 +44,7 @@
 *	自动化输入文本, 游戏内自动发送文本; 
 #
 * 额外功能: SMS接码
-* 🐧:875492749 \ 922015662
+
 #
 *	介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 *	视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
