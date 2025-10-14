@@ -1,7 +1,7 @@
 # 此项目涉及账号密码安全问题，故而没有开源. 不开源的原因:开源后账户安全的不可控性;
 
 框架: .NetFramework4.5,  支持windows All
-* 🐧: 485886830
+* 🐧: 485886830 , 756218964
 * 介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
 * 视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 # 核心功能:
