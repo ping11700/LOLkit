@@ -55,6 +55,26 @@
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/aram.png)
 ![alt text](https://github.com/ping11700/LOLKit/blob/main/Teams.png)
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=sping11700/LOLkit&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=ping11700/LOLkit&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=ping11700/LOLkit&type=Date"
+  />
+</picture>
+
 # Release Note
 
 ## version2.6.0 2024-06-10 Latest
