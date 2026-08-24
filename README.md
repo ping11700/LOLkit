@@ -7,7 +7,7 @@
 2.推荐好用的加速器 https://pingvpn.space/gg/
 
 * 🐧: 485886830
-* 介绍: https://sway.office.com/PXfDJFguLtibyWsu?play
+* 介绍: https://ping11700.github.io/lolkitweb/
 * 视频演示:【合集·one gift for all lol gamers-哔哩哔哩】https://www.bilibili.com/video/BV1Pe411u7YJ
 # 核心功能:
 *	一键登录, 自动输入账号密码, 选择大区;
