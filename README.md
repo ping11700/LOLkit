@@ -2,9 +2,9 @@
 
 框架: .NetFramework4.5,  支持windows All
 
-1.推荐一个好用的机场 https://pingvpn.space/
+1.推荐一个好用的机场 https://pingvpn.space
 
-2.推荐好用的加速器 https://pingvpn.space/gg/
+2.信息差门户网站 https://pingvpn.space/info
 
 * 🐧: 485886830
 * 介绍: https://ping11700.github.io/lolkitweb/
